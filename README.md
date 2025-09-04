@@ -11,8 +11,8 @@ welcome to this project
 
 
 -Simple to use
- *lightweight and efficient
-  + Well documented
+*lightweight and efficient
++ Well documented
 
 
       ***Active development***\
