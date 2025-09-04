@@ -10,8 +10,8 @@ welcome to this project
 3. Run the setup script
 
 
--Simple to use
-*lightweight and efficient
+- Simple to use
+* lightweight and efficient
 + Well documented
 
 
